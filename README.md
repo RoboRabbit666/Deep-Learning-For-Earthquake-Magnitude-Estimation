@@ -6,16 +6,16 @@ This repository contains the implementation of deep learning approaches for sing
 ## Repository Structure
 ```bash
 earthquake-magnitude-estimation/
-├── LICENSE
-├── README.md
+├── data/
+│   └── README.md                         # Data access instructions (no actual data)
 ├── notebooks/                    # Jupyter notebooks
 │   ├── 01_data_preprocessing.ipynb        # Data preparation and preprocessing
 │   ├── 02_baseline_magnet.ipynb          # Original MagNet implementation
 │   ├── 03_deeper_magnet.ipynb            # Enhanced deeper architecture
 │   ├── 04_50_random_runs.ipynb           # Data splitting analysis
 │   └── 05_cross_regional_analysis.ipynb   # Cross-regional studies
-├── data/
-│   └── README.md                         # Data access instructions (no actual data)
+├── LICENSE
+├── README.md
 └── requirements.txt            # Project dependencies
 
 ## Key Features
