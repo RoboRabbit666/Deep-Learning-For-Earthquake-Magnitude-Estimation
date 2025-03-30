@@ -1,0 +1,352 @@
+[
+    {
+        "run_id": 1,
+        "median_mae": 0.20653612911701202,
+        "median_aleatoric_uncertainty": 0.01262312475591898,
+        "median_epistemic_uncertainty": 0.05810106545686722,
+        "median_combined_uncertainty": 0.017642254009842873
+    },
+    {
+        "run_id": 2,
+        "median_mae": 0.18837983906269073,
+        "median_aleatoric_uncertainty": 0.008219841867685318,
+        "median_epistemic_uncertainty": 0.05295828357338905,
+        "median_combined_uncertainty": 0.01280420832335949
+    },
+    {
+        "run_id": 3,
+        "median_mae": 0.1834009289741516,
+        "median_aleatoric_uncertainty": 0.010882616974413395,
+        "median_epistemic_uncertainty": 0.05512765794992447,
+        "median_combined_uncertainty": 0.01567261852324009
+    },
+    {
+        "run_id": 4,
+        "median_mae": 0.178837388753891,
+        "median_aleatoric_uncertainty": 0.007513006217777729,
+        "median_epistemic_uncertainty": 0.050500236451625824,
+        "median_combined_uncertainty": 0.011850292794406414
+    },
+    {
+        "run_id": 5,
+        "median_mae": 0.19696550071239471,
+        "median_aleatoric_uncertainty": 0.015536726452410221,
+        "median_epistemic_uncertainty": 0.05565786734223366,
+        "median_combined_uncertainty": 0.020360631868243217
+    },
+    {
+        "run_id": 6,
+        "median_mae": 0.1909932941198349,
+        "median_aleatoric_uncertainty": 0.013418390415608883,
+        "median_epistemic_uncertainty": 0.055024027824401855,
+        "median_combined_uncertainty": 0.01814676634967327
+    },
+    {
+        "run_id": 7,
+        "median_mae": 0.22103050351142883,
+        "median_aleatoric_uncertainty": 0.02101767249405384,
+        "median_epistemic_uncertainty": 0.06013328582048416,
+        "median_combined_uncertainty": 0.02635674737393856
+    },
+    {
+        "run_id": 8,
+        "median_mae": 0.21884234249591827,
+        "median_aleatoric_uncertainty": 0.01607307605445385,
+        "median_epistemic_uncertainty": 0.05684507265686989,
+        "median_combined_uncertainty": 0.020971491932868958
+    },
+    {
+        "run_id": 9,
+        "median_mae": 0.18976323306560516,
+        "median_aleatoric_uncertainty": 0.007978154346346855,
+        "median_epistemic_uncertainty": 0.050516530871391296,
+        "median_combined_uncertainty": 0.011983055621385574
+    },
+    {
+        "run_id": 10,
+        "median_mae": 0.22485515475273132,
+        "median_aleatoric_uncertainty": 0.019029542803764343,
+        "median_epistemic_uncertainty": 0.06006471440196037,
+        "median_combined_uncertainty": 0.024012194946408272
+    },
+    {
+        "run_id": 11,
+        "median_mae": 0.22342632710933685,
+        "median_aleatoric_uncertainty": 0.02115021087229252,
+        "median_epistemic_uncertainty": 0.058292753994464874,
+        "median_combined_uncertainty": 0.026292821392416954
+    },
+    {
+        "run_id": 12,
+        "median_mae": 0.21451683342456818,
+        "median_aleatoric_uncertainty": 0.01486929226666689,
+        "median_epistemic_uncertainty": 0.05455329641699791,
+        "median_combined_uncertainty": 0.01947980746626854
+    },
+    {
+        "run_id": 13,
+        "median_mae": 0.22062015533447266,
+        "median_aleatoric_uncertainty": 0.015245475806295872,
+        "median_epistemic_uncertainty": 0.05925358086824417,
+        "median_combined_uncertainty": 0.020536992698907852
+    },
+    {
+        "run_id": 14,
+        "median_mae": 0.22656328976154327,
+        "median_aleatoric_uncertainty": 0.01873663440346718,
+        "median_epistemic_uncertainty": 0.06224382296204567,
+        "median_combined_uncertainty": 0.024315718561410904
+    },
+    {
+        "run_id": 15,
+        "median_mae": 0.19955773651599884,
+        "median_aleatoric_uncertainty": 0.010172480717301369,
+        "median_epistemic_uncertainty": 0.05592278391122818,
+        "median_combined_uncertainty": 0.015031669288873672
+    },
+    {
+        "run_id": 16,
+        "median_mae": 0.20759540796279907,
+        "median_aleatoric_uncertainty": 0.017088524997234344,
+        "median_epistemic_uncertainty": 0.05673535168170929,
+        "median_combined_uncertainty": 0.0220419280230999
+    },
+    {
+        "run_id": 17,
+        "median_mae": 0.18370406329631805,
+        "median_aleatoric_uncertainty": 0.007474924437701702,
+        "median_epistemic_uncertainty": 0.05095911771059036,
+        "median_combined_uncertainty": 0.011685593985021114
+    },
+    {
+        "run_id": 18,
+        "median_mae": 0.193513423204422,
+        "median_aleatoric_uncertainty": 0.010037947446107864,
+        "median_epistemic_uncertainty": 0.05890106409788132,
+        "median_combined_uncertainty": 0.015563134104013443
+    },
+    {
+        "run_id": 19,
+        "median_mae": 0.2036413550376892,
+        "median_aleatoric_uncertainty": 0.013639016076922417,
+        "median_epistemic_uncertainty": 0.05589256435632706,
+        "median_combined_uncertainty": 0.018397487699985504
+    },
+    {
+        "run_id": 20,
+        "median_mae": 0.20901471376419067,
+        "median_aleatoric_uncertainty": 0.01162751391530037,
+        "median_epistemic_uncertainty": 0.053527362644672394,
+        "median_combined_uncertainty": 0.016137823462486267
+    },
+    {
+        "run_id": 21,
+        "median_mae": 0.1785009503364563,
+        "median_aleatoric_uncertainty": 0.00866845715790987,
+        "median_epistemic_uncertainty": 0.05355444550514221,
+        "median_combined_uncertainty": 0.013405886478722095
+    },
+    {
+        "run_id": 22,
+        "median_mae": 0.1898944228887558,
+        "median_aleatoric_uncertainty": 0.009079898707568645,
+        "median_epistemic_uncertainty": 0.05323920026421547,
+        "median_combined_uncertainty": 0.013554593548178673
+    },
+    {
+        "run_id": 23,
+        "median_mae": 0.20921815931797028,
+        "median_aleatoric_uncertainty": 0.01128309778869152,
+        "median_epistemic_uncertainty": 0.056479644030332565,
+        "median_combined_uncertainty": 0.01627875305712223
+    },
+    {
+        "run_id": 24,
+        "median_mae": 0.19989065825939178,
+        "median_aleatoric_uncertainty": 0.01545878779143095,
+        "median_epistemic_uncertainty": 0.055236343294382095,
+        "median_combined_uncertainty": 0.020339539274573326
+    },
+    {
+        "run_id": 25,
+        "median_mae": 0.21230722963809967,
+        "median_aleatoric_uncertainty": 0.01243575569242239,
+        "median_epistemic_uncertainty": 0.05456055328249931,
+        "median_combined_uncertainty": 0.016952229663729668
+    },
+    {
+        "run_id": 26,
+        "median_mae": 0.20224612951278687,
+        "median_aleatoric_uncertainty": 0.012391418218612671,
+        "median_epistemic_uncertainty": 0.056051578372716904,
+        "median_combined_uncertainty": 0.017023593187332153
+    },
+    {
+        "run_id": 27,
+        "median_mae": 0.20435301959514618,
+        "median_aleatoric_uncertainty": 0.012622828595340252,
+        "median_epistemic_uncertainty": 0.05327326059341431,
+        "median_combined_uncertainty": 0.01683035120368004
+    },
+    {
+        "run_id": 28,
+        "median_mae": 0.24378161132335663,
+        "median_aleatoric_uncertainty": 0.018864315003156662,
+        "median_epistemic_uncertainty": 0.06448016315698624,
+        "median_combined_uncertainty": 0.02540685422718525
+    },
+    {
+        "run_id": 29,
+        "median_mae": 0.20772315561771393,
+        "median_aleatoric_uncertainty": 0.010896488092839718,
+        "median_epistemic_uncertainty": 0.050616178661584854,
+        "median_combined_uncertainty": 0.014881317503750324
+    },
+    {
+        "run_id": 30,
+        "median_mae": 0.2092636674642563,
+        "median_aleatoric_uncertainty": 0.018190845847129822,
+        "median_epistemic_uncertainty": 0.05743839964270592,
+        "median_combined_uncertainty": 0.023215385153889656
+    },
+    {
+        "run_id": 31,
+        "median_mae": 0.20493775606155396,
+        "median_aleatoric_uncertainty": 0.01514857355505228,
+        "median_epistemic_uncertainty": 0.05888401344418526,
+        "median_combined_uncertainty": 0.020254986360669136
+    },
+    {
+        "run_id": 32,
+        "median_mae": 0.2044302374124527,
+        "median_aleatoric_uncertainty": 0.011371533386409283,
+        "median_epistemic_uncertainty": 0.0579705610871315,
+        "median_combined_uncertainty": 0.016582941636443138
+    },
+    {
+        "run_id": 33,
+        "median_mae": 0.20532847940921783,
+        "median_aleatoric_uncertainty": 0.013311546295881271,
+        "median_epistemic_uncertainty": 0.055415015667676926,
+        "median_combined_uncertainty": 0.01804875209927559
+    },
+    {
+        "run_id": 34,
+        "median_mae": 0.2195878028869629,
+        "median_aleatoric_uncertainty": 0.022842351347208023,
+        "median_epistemic_uncertainty": 0.06087035685777664,
+        "median_combined_uncertainty": 0.028204403817653656
+    },
+    {
+        "run_id": 35,
+        "median_mae": 0.20654086768627167,
+        "median_aleatoric_uncertainty": 0.014491294510662556,
+        "median_epistemic_uncertainty": 0.06042487174272537,
+        "median_combined_uncertainty": 0.020008109509944916
+    },
+    {
+        "run_id": 36,
+        "median_mae": 0.19961397349834442,
+        "median_aleatoric_uncertainty": 0.013093264773488045,
+        "median_epistemic_uncertainty": 0.05479704588651657,
+        "median_combined_uncertainty": 0.01785070076584816
+    },
+    {
+        "run_id": 37,
+        "median_mae": 0.19426006078720093,
+        "median_aleatoric_uncertainty": 0.011058380827307701,
+        "median_epistemic_uncertainty": 0.0559346005320549,
+        "median_combined_uncertainty": 0.016110999509692192
+    },
+    {
+        "run_id": 38,
+        "median_mae": 0.18968522548675537,
+        "median_aleatoric_uncertainty": 0.011492669582366943,
+        "median_epistemic_uncertainty": 0.05819632485508919,
+        "median_combined_uncertainty": 0.01683867909014225
+    },
+    {
+        "run_id": 39,
+        "median_mae": 0.24389657378196716,
+        "median_aleatoric_uncertainty": 0.01920444890856743,
+        "median_epistemic_uncertainty": 0.06393156945705414,
+        "median_combined_uncertainty": 0.025023965165019035
+    },
+    {
+        "run_id": 40,
+        "median_mae": 0.205936998128891,
+        "median_aleatoric_uncertainty": 0.015233844518661499,
+        "median_epistemic_uncertainty": 0.062375325709581375,
+        "median_combined_uncertainty": 0.020835911855101585
+    },
+    {
+        "run_id": 41,
+        "median_mae": 0.20855477452278137,
+        "median_aleatoric_uncertainty": 0.015236936509609222,
+        "median_epistemic_uncertainty": 0.05544443801045418,
+        "median_combined_uncertainty": 0.020079970359802246
+    },
+    {
+        "run_id": 42,
+        "median_mae": 0.20447997748851776,
+        "median_aleatoric_uncertainty": 0.011418743059039116,
+        "median_epistemic_uncertainty": 0.054491076618433,
+        "median_combined_uncertainty": 0.015811435878276825
+    },
+    {
+        "run_id": 43,
+        "median_mae": 0.18676306307315826,
+        "median_aleatoric_uncertainty": 0.009151946753263474,
+        "median_epistemic_uncertainty": 0.05644960701465607,
+        "median_combined_uncertainty": 0.014321546070277691
+    },
+    {
+        "run_id": 44,
+        "median_mae": 0.1910102218389511,
+        "median_aleatoric_uncertainty": 0.007936947979032993,
+        "median_epistemic_uncertainty": 0.052085328847169876,
+        "median_combined_uncertainty": 0.012044592760503292
+    },
+    {
+        "run_id": 45,
+        "median_mae": 0.19835084676742554,
+        "median_aleatoric_uncertainty": 0.011803729459643364,
+        "median_epistemic_uncertainty": 0.054596882313489914,
+        "median_combined_uncertainty": 0.016497677192091942
+    },
+    {
+        "run_id": 46,
+        "median_mae": 0.19969867169857025,
+        "median_aleatoric_uncertainty": 0.012144908308982849,
+        "median_epistemic_uncertainty": 0.052029069513082504,
+        "median_combined_uncertainty": 0.016548071056604385
+    },
+    {
+        "run_id": 47,
+        "median_mae": 0.2153318077325821,
+        "median_aleatoric_uncertainty": 0.020762158557772636,
+        "median_epistemic_uncertainty": 0.05770456790924072,
+        "median_combined_uncertainty": 0.025800472125411034
+    },
+    {
+        "run_id": 48,
+        "median_mae": 0.2130320519208908,
+        "median_aleatoric_uncertainty": 0.019128965213894844,
+        "median_epistemic_uncertainty": 0.06080791726708412,
+        "median_combined_uncertainty": 0.024850256741046906
+    },
+    {
+        "run_id": 49,
+        "median_mae": 0.2096872478723526,
+        "median_aleatoric_uncertainty": 0.01717395894229412,
+        "median_epistemic_uncertainty": 0.05707548186182976,
+        "median_combined_uncertainty": 0.022343944758176804
+    },
+    {
+        "run_id": 50,
+        "median_mae": 0.19987641274929047,
+        "median_aleatoric_uncertainty": 0.012888587079942226,
+        "median_epistemic_uncertainty": 0.0555858351290226,
+        "median_combined_uncertainty": 0.01781003549695015
+    }
+]

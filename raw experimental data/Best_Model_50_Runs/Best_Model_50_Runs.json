@@ -1,0 +1,302 @@
+[
+    {
+        "MAE": 0.13793131709098816,
+        "mean_aleatoric_uncertainty": 0.0022046577651053667,
+        "mean_epistemic_uncertainty": 0.042216166853904724,
+        "mean_combined_uncertainty": 0.005643518175929785
+    },
+    {
+        "MAE": 0.13666246831417084,
+        "mean_aleatoric_uncertainty": 0.0020177813712507486,
+        "mean_epistemic_uncertainty": 0.041887685656547546,
+        "mean_combined_uncertainty": 0.005387694109231234
+    },
+    {
+        "MAE": 0.1373201459646225,
+        "mean_aleatoric_uncertainty": 0.0020447338465601206,
+        "mean_epistemic_uncertainty": 0.04200803488492966,
+        "mean_combined_uncertainty": 0.005438133608549833
+    },
+    {
+        "MAE": 0.13773424923419952,
+        "mean_aleatoric_uncertainty": 0.002050564158707857,
+        "mean_epistemic_uncertainty": 0.041992053389549255,
+        "mean_combined_uncertainty": 0.005446582566946745
+    },
+    {
+        "MAE": 0.1373593509197235,
+        "mean_aleatoric_uncertainty": 0.0020602389704436064,
+        "mean_epistemic_uncertainty": 0.042055800557136536,
+        "mean_combined_uncertainty": 0.005495558492839336
+    },
+    {
+        "MAE": 0.1374770551919937,
+        "mean_aleatoric_uncertainty": 0.0021869076881557703,
+        "mean_epistemic_uncertainty": 0.04214189574122429,
+        "mean_combined_uncertainty": 0.0056222244165837765
+    },
+    {
+        "MAE": 0.13703635334968567,
+        "mean_aleatoric_uncertainty": 0.002085666172206402,
+        "mean_epistemic_uncertainty": 0.04195583239197731,
+        "mean_combined_uncertainty": 0.005478399805724621
+    },
+    {
+        "MAE": 0.13751856982707977,
+        "mean_aleatoric_uncertainty": 0.0020903032273054123,
+        "mean_epistemic_uncertainty": 0.04200045019388199,
+        "mean_combined_uncertainty": 0.005482064560055733
+    },
+    {
+        "MAE": 0.13838531076908112,
+        "mean_aleatoric_uncertainty": 0.002154097892343998,
+        "mean_epistemic_uncertainty": 0.04212241619825363,
+        "mean_combined_uncertainty": 0.005588999483734369
+    },
+    {
+        "MAE": 0.13800571858882904,
+        "mean_aleatoric_uncertainty": 0.002075175754725933,
+        "mean_epistemic_uncertainty": 0.04208133742213249,
+        "mean_combined_uncertainty": 0.00549675989896059
+    },
+    {
+        "MAE": 0.13957779109477997,
+        "mean_aleatoric_uncertainty": 0.0021336134523153305,
+        "mean_epistemic_uncertainty": 0.04249010235071182,
+        "mean_combined_uncertainty": 0.00563647598028183
+    },
+    {
+        "MAE": 0.13733886182308197,
+        "mean_aleatoric_uncertainty": 0.0020702641922980547,
+        "mean_epistemic_uncertainty": 0.04200749844312668,
+        "mean_combined_uncertainty": 0.0054762414656579494
+    },
+    {
+        "MAE": 0.13662053644657135,
+        "mean_aleatoric_uncertainty": 0.0021236056927591562,
+        "mean_epistemic_uncertainty": 0.04214264079928398,
+        "mean_combined_uncertainty": 0.005576205439865589
+    },
+    {
+        "MAE": 0.13776002824306488,
+        "mean_aleatoric_uncertainty": 0.0021967857610434294,
+        "mean_epistemic_uncertainty": 0.04215002804994583,
+        "mean_combined_uncertainty": 0.0056306831538677216
+    },
+    {
+        "MAE": 0.13697569072246552,
+        "mean_aleatoric_uncertainty": 0.002126036211848259,
+        "mean_epistemic_uncertainty": 0.04203369840979576,
+        "mean_combined_uncertainty": 0.0055423928424716
+    },
+    {
+        "MAE": 0.13719475269317627,
+        "mean_aleatoric_uncertainty": 0.002064267173409462,
+        "mean_epistemic_uncertainty": 0.04176789149641991,
+        "mean_combined_uncertainty": 0.005403715651482344
+    },
+    {
+        "MAE": 0.13776427507400513,
+        "mean_aleatoric_uncertainty": 0.0020859278738498688,
+        "mean_epistemic_uncertainty": 0.04222935810685158,
+        "mean_combined_uncertainty": 0.005546289961785078
+    },
+    {
+        "MAE": 0.13720789551734924,
+        "mean_aleatoric_uncertainty": 0.002018786035478115,
+        "mean_epistemic_uncertainty": 0.04174642637372017,
+        "mean_combined_uncertainty": 0.005370520520955324
+    },
+    {
+        "MAE": 0.13655231893062592,
+        "mean_aleatoric_uncertainty": 0.0021257491316646338,
+        "mean_epistemic_uncertainty": 0.041959334164857864,
+        "mean_combined_uncertainty": 0.005525002721697092
+    },
+    {
+        "MAE": 0.1379580795764923,
+        "mean_aleatoric_uncertainty": 0.0021123006008565426,
+        "mean_epistemic_uncertainty": 0.04212655872106552,
+        "mean_combined_uncertainty": 0.0055448501370847225
+    },
+    {
+        "MAE": 0.13775332272052765,
+        "mean_aleatoric_uncertainty": 0.0021234340965747833,
+        "mean_epistemic_uncertainty": 0.04214875400066376,
+        "mean_combined_uncertainty": 0.00552324065938592
+    },
+    {
+        "MAE": 0.13820891082286835,
+        "mean_aleatoric_uncertainty": 0.002079907339066267,
+        "mean_epistemic_uncertainty": 0.042127326130867004,
+        "mean_combined_uncertainty": 0.005491842050105333
+    },
+    {
+        "MAE": 0.1369122564792633,
+        "mean_aleatoric_uncertainty": 0.0022007853258401155,
+        "mean_epistemic_uncertainty": 0.04207633435726166,
+        "mean_combined_uncertainty": 0.005626783240586519
+    },
+    {
+        "MAE": 0.1377067267894745,
+        "mean_aleatoric_uncertainty": 0.0020437370985746384,
+        "mean_epistemic_uncertainty": 0.042094215750694275,
+        "mean_combined_uncertainty": 0.005462436005473137
+    },
+    {
+        "MAE": 0.1375647932291031,
+        "mean_aleatoric_uncertainty": 0.0021118344739079475,
+        "mean_epistemic_uncertainty": 0.04196368157863617,
+        "mean_combined_uncertainty": 0.005516412667930126
+    },
+    {
+        "MAE": 0.13692113757133484,
+        "mean_aleatoric_uncertainty": 0.0021144647616893053,
+        "mean_epistemic_uncertainty": 0.042135078459978104,
+        "mean_combined_uncertainty": 0.005558572243899107
+    },
+    {
+        "MAE": 0.13785763084888458,
+        "mean_aleatoric_uncertainty": 0.0021161094773560762,
+        "mean_epistemic_uncertainty": 0.04202742874622345,
+        "mean_combined_uncertainty": 0.005515660624951124
+    },
+    {
+        "MAE": 0.13800247013568878,
+        "mean_aleatoric_uncertainty": 0.0022498229518532753,
+        "mean_epistemic_uncertainty": 0.04238268733024597,
+        "mean_combined_uncertainty": 0.005759542342275381
+    },
+    {
+        "MAE": 0.13754230737686157,
+        "mean_aleatoric_uncertainty": 0.0021469518542289734,
+        "mean_epistemic_uncertainty": 0.042150963097810745,
+        "mean_combined_uncertainty": 0.005580977536737919
+    },
+    {
+        "MAE": 0.13780608773231506,
+        "mean_aleatoric_uncertainty": 0.0021054879762232304,
+        "mean_epistemic_uncertainty": 0.04200467839837074,
+        "mean_combined_uncertainty": 0.005507246125489473
+    },
+    {
+        "MAE": 0.1373765915632248,
+        "mean_aleatoric_uncertainty": 0.0021243738010525703,
+        "mean_epistemic_uncertainty": 0.042054660618305206,
+        "mean_combined_uncertainty": 0.005554708652198315
+    },
+    {
+        "MAE": 0.13709571957588196,
+        "mean_aleatoric_uncertainty": 0.0020758321043103933,
+        "mean_epistemic_uncertainty": 0.04215094447135925,
+        "mean_combined_uncertainty": 0.005527431610971689
+    },
+    {
+        "MAE": 0.13681787252426147,
+        "mean_aleatoric_uncertainty": 0.0020336166489869356,
+        "mean_epistemic_uncertainty": 0.04212441295385361,
+        "mean_combined_uncertainty": 0.005454777739942074
+    },
+    {
+        "MAE": 0.13761842250823975,
+        "mean_aleatoric_uncertainty": 0.0020734556019306183,
+        "mean_epistemic_uncertainty": 0.04204616695642471,
+        "mean_combined_uncertainty": 0.005477358121424913
+    },
+    {
+        "MAE": 0.1378736048936844,
+        "mean_aleatoric_uncertainty": 0.0020301630720496178,
+        "mean_epistemic_uncertainty": 0.04224236682057381,
+        "mean_combined_uncertainty": 0.0054475050419569016
+    },
+    {
+        "MAE": 0.13844315707683563,
+        "mean_aleatoric_uncertainty": 0.0021023782901465893,
+        "mean_epistemic_uncertainty": 0.04206026718020439,
+        "mean_combined_uncertainty": 0.0055268025025725365
+    },
+    {
+        "MAE": 0.13769479095935822,
+        "mean_aleatoric_uncertainty": 0.0020965784788131714,
+        "mean_epistemic_uncertainty": 0.04197138547897339,
+        "mean_combined_uncertainty": 0.005477018188685179
+    },
+    {
+        "MAE": 0.13788506388664246,
+        "mean_aleatoric_uncertainty": 0.0020788325928151608,
+        "mean_epistemic_uncertainty": 0.04196663945913315,
+        "mean_combined_uncertainty": 0.005474061705172062
+    },
+    {
+        "MAE": 0.136468768119812,
+        "mean_aleatoric_uncertainty": 0.0020308627281337976,
+        "mean_epistemic_uncertainty": 0.0418686605989933,
+        "mean_combined_uncertainty": 0.005400008987635374
+    },
+    {
+        "MAE": 0.137172669172287,
+        "mean_aleatoric_uncertainty": 0.0021412670612335205,
+        "mean_epistemic_uncertainty": 0.0418827123939991,
+        "mean_combined_uncertainty": 0.0055462876334786415
+    },
+    {
+        "MAE": 0.13738656044006348,
+        "mean_aleatoric_uncertainty": 0.0021074586547911167,
+        "mean_epistemic_uncertainty": 0.04243544489145279,
+        "mean_combined_uncertainty": 0.005585220642387867
+    },
+    {
+        "MAE": 0.13790473341941833,
+        "mean_aleatoric_uncertainty": 0.0020964788272976875,
+        "mean_epistemic_uncertainty": 0.04232034459710121,
+        "mean_combined_uncertainty": 0.005581293720752001
+    },
+    {
+        "MAE": 0.1376280039548874,
+        "mean_aleatoric_uncertainty": 0.0022273699287325144,
+        "mean_epistemic_uncertainty": 0.04213658720254898,
+        "mean_combined_uncertainty": 0.005654668435454369
+    },
+    {
+        "MAE": 0.13827666640281677,
+        "mean_aleatoric_uncertainty": 0.002139119664207101,
+        "mean_epistemic_uncertainty": 0.0421094186604023,
+        "mean_combined_uncertainty": 0.005581334698945284
+    },
+    {
+        "MAE": 0.13812345266342163,
+        "mean_aleatoric_uncertainty": 0.002066289074718952,
+        "mean_epistemic_uncertainty": 0.041890449821949005,
+        "mean_combined_uncertainty": 0.005455306265503168
+    },
+    {
+        "MAE": 0.13717086613178253,
+        "mean_aleatoric_uncertainty": 0.002119495766237378,
+        "mean_epistemic_uncertainty": 0.04211769253015518,
+        "mean_combined_uncertainty": 0.005558732897043228
+    },
+    {
+        "MAE": 0.13760213553905487,
+        "mean_aleatoric_uncertainty": 0.002119877142831683,
+        "mean_epistemic_uncertainty": 0.04213954508304596,
+        "mean_combined_uncertainty": 0.005568257533013821
+    },
+    {
+        "MAE": 0.13784393668174744,
+        "mean_aleatoric_uncertainty": 0.0021494519896805286,
+        "mean_epistemic_uncertainty": 0.04209478944540024,
+        "mean_combined_uncertainty": 0.005615658592432737
+    },
+    {
+        "MAE": 0.1370975822210312,
+        "mean_aleatoric_uncertainty": 0.0021066595800220966,
+        "mean_epistemic_uncertainty": 0.04182478040456772,
+        "mean_combined_uncertainty": 0.005476363468915224
+    },
+    {
+        "MAE": 0.13764432072639465,
+        "mean_aleatoric_uncertainty": 0.002129595959559083,
+        "mean_epistemic_uncertainty": 0.04200303182005882,
+        "mean_combined_uncertainty": 0.005517200566828251
+    }
+]
