@@ -1,5 +1,4 @@
 # Data Access Instructions
-
 This project uses the following datasets:
 
 1. STEAD Dataset
