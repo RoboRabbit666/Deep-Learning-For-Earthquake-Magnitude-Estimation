@@ -8,6 +8,9 @@ This repository contains the implementation of deep learning approaches for sing
 earthquake-magnitude-estimation/
 ├── data/
 │   └── README.md                         # Data access instructions (no actual data)
+├── raw experimental data/
+│   ├── Best_Model_50_Runs.json           # Raw Best_Model_50_Runs data
+│   └── MagNet_Model_50_Runs.json         # Raw MagNet_Model_50_Runs data
 ├── notebooks/                    # Jupyter notebooks
 │   ├── 01_data_preprocessing.ipynb        # Data preparation and preprocessing
 │   ├── 02_baseline_magnet.ipynb          # Original MagNet implementation
