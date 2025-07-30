@@ -1,4 +1,4 @@
-# Earthquake Magnitude Estimation using Deep Learning
+# Earthquake Magnitude Estimation using Bayesian Deep Learning
 
 ## Overview
 This repository contains the implementation of deep learning approaches for single-station earthquake magnitude estimation, building upon and enhancing the MagNet architecture.
