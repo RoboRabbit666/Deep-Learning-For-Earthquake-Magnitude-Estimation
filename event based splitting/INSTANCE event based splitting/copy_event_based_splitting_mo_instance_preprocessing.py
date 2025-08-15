@@ -221,8 +221,8 @@ for index, row in df_filtered.iterrows():
     if event_id not in event_metadata:
         event_metadata[event_id] = {
             'magnitude': row['source_magnitude'],
-            'latitude': row['source_latitude_deg'], # Use correct column name for latitude
-            'longitude': row['source_longitude_deg'], # Use correct column name for longitude
+            'latitude': row['source_latitude_deg'], # Use correct column name for latitude: source_latitude_deg
+            'longitude': row['source_longitude_deg'], # Use correct column name for longitude: source_longitude_deg
             'depth': row['source_depth_km'],
             'origin_time': row['source_origin_time']
         }
