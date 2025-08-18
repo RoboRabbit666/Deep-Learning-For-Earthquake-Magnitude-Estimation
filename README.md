@@ -18,8 +18,11 @@ earthquake-magnitude-estimation/
 │   ├── 04_50_random_runs.ipynb           # Data splitting analysis
 │   └── 05_cross_regional_analysis.ipynb  # Cross-regional studies
 ├── event based data splitting/
-    ├── INSTANCE/                         # Event-based splitting strategy for INSTACE dataset
-    └── STEAD/                            # Event-based splitting strategy for STEAD dataset
+│    ├── INSTANCE/                         # Event-based splitting strategy for INSTACE dataset
+│    └── STEAD/                            # Event-based splitting strategy for STEAD dataset
+├── seismogram based data splitting/
+│    ├── INSTANCE/                         # Event-based splitting strategy for INSTACE dataset
+│    └── STEAD/                            # Event-based splitting strategy for STEAD dataset
 ├── LICENSE
 ├── README.md
 └── requirements.txt                       # Project dependencies
