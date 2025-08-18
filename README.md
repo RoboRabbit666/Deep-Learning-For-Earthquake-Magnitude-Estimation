@@ -11,15 +11,18 @@ earthquake-magnitude-estimation/
 ├── raw experimental data/
 │   ├── Best_Model_50_Runs.json           # Raw Best_Model_50_Runs data
 │   └── MagNet_Model_50_Runs.json         # Raw MagNet_Model_50_Runs data
-├── notebooks/                    # Jupyter notebooks
-│   ├── 01_data_preprocessing.ipynb        # Data preparation and preprocessing
+├── notebooks/                            # Jupyter notebooks
+│   ├── 01_data_preprocessing.ipynb       # Data preparation and preprocessing
 │   ├── 02_baseline_magnet.ipynb          # Original MagNet implementation
 │   ├── 03_deeper_magnet.ipynb            # Enhanced deeper architecture
 │   ├── 04_50_random_runs.ipynb           # Data splitting analysis
-│   └── 05_cross_regional_analysis.ipynb   # Cross-regional studies
+│   └── 05_cross_regional_analysis.ipynb  # Cross-regional studies
+├── event based data splitting/
+    ├── INSTANCE/                         # Event-based splitting strategy for INSTACE dataset
+    └── STEAD/                            # Event-based splitting strategy for STEAD dataset
 ├── LICENSE
 ├── README.md
-└── requirements.txt            # Project dependencies
+└── requirements.txt                       # Project dependencies
 
 ## Key Features
 - Enhanced MagNet architecture with deeper layers and residual connections
